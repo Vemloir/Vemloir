@@ -10,6 +10,10 @@ Building inference engines from scratch — hand-written CUDA kernels, no PyTorc
 
 Open-source **xray-core** VPN clients ([Linux](https://github.com/Vemloir/Varmlen-Client-Linux) · [Windows](https://github.com/Vemloir/Varmlen-Client-Windows) · [Android](https://github.com/Vemloir/Varmlen-Client-Android)) with per-app/per-domain split tunneling, built on Tauri 2 + SvelteKit.
 
+#### [Aegis VPN](https://github.com/Vemloir/AegisVPN)
+
+A VPN subscription service behind a Telegram bot ([@AegisEcoVPN_bot](https://t.me/AegisEcoVPN_bot)), running **Xray (VLESS + Reality)** across multiple VPS nodes. Each node long-polls a signed control endpoint over outbound HTTPS and reconciles state itself — no inbound control port on any exit server — with Telegram Stars payments and per-server access control.
+
 <br>
 
 <picture>
