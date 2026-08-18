@@ -1,12 +1,12 @@
 <svg width="780" height="92" viewBox="0 0 780 92" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Top languages">
-    <rect x="8" y="6" width="764" height="10" rx="5" fill="#d0d7de"/>
-    <rect x="8.00" y="6" width="483.59" height="10" fill="#dea584"/>
-    <rect x="491.59" y="6" width="104.97" height="10" fill="#3572A5"/>
-    <rect x="596.56" y="6" width="84.14" height="10" fill="#3A4E3A"/>
-    <rect x="680.69" y="6" width="43.64" height="10" fill="#3178c6"/>
-    <rect x="724.33" y="6" width="33.55" height="10" fill="#ff3e00"/>
-    <rect x="757.88" y="6" width="14.12" height="10" fill="#f1e05a"/>
-    <foreignObject x="8" y="32" width="764" height="60">
+    <rect x="0" y="6" width="780" height="10" rx="5" fill="#d0d7de"/>
+    <rect x="0.00" y="6" width="493.72" height="10" fill="#dea584"/>
+    <rect x="493.72" y="6" width="107.17" height="10" fill="#3572A5"/>
+    <rect x="600.88" y="6" width="85.90" height="10" fill="#3A4E3A"/>
+    <rect x="686.78" y="6" width="44.55" height="10" fill="#3178c6"/>
+    <rect x="731.33" y="6" width="34.25" height="10" fill="#ff3e00"/>
+    <rect x="765.58" y="6" width="14.42" height="10" fill="#f1e05a"/>
+    <foreignObject x="0" y="32" width="780" height="60">
         <div xmlns="http://www.w3.org/1999/xhtml" style="display:flex;flex-wrap:wrap;justify-content:space-between;row-gap:10px;column-gap:16px;font:12px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">
         <span style="display:inline-flex;align-items:center;gap:6px;white-space:nowrap;"><span style="width:9px;height:9px;border-radius:50%;background:#dea584;flex:none;"></span><span style="color:#1f2328;">Rust</span><span style="color:#57606a;">61.7%</span></span>
         <span style="display:inline-flex;align-items:center;gap:6px;white-space:nowrap;"><span style="width:9px;height:9px;border-radius:50%;background:#3572A5;flex:none;"></span><span style="color:#1f2328;">Python</span><span style="color:#57606a;">13.4%</span></span>
