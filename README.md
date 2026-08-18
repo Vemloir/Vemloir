@@ -1,22 +1,6 @@
 ```mermaid
 graph TD;
-AegisVPN[Aegis VPN] --> Varmlen[Varmlen]
-Varmlen --> platforms
-
-subgraph platforms[Platforms]
-    VarmlenLinux[Linux]
-    VarmlenWindows[Windows]
-    VarmlenAndroid[Android]
-end
-
-LumenLLM[LumenLLM]
-
-click AegisVPN "https://github.com/Vemloir/AegisVPN" "Aegis VPN — VPN subscription service"
-click Varmlen "https://github.com/Vemloir/Varmlen-Client-Linux" "Varmlen — xray-core client"
-click VarmlenLinux "https://github.com/Vemloir/Varmlen-Client-Linux" "Linux"
-click VarmlenWindows "https://github.com/Vemloir/Varmlen-Client-Windows" "Windows"
-click VarmlenAndroid "https://github.com/Vemloir/Varmlen-Client-Android" "Android"
-click LumenLLM "https://github.com/Vemloir/LumenLLM" "LumenLLM — Rust + CUDA inference engine"
+A --> B
 ```
 
 #### [LumenLLM](https://github.com/Vemloir/LumenLLM)
