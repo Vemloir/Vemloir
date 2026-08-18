@@ -15,5 +15,5 @@ Open-source **xray-core** VPN clients ([Linux](https://github.com/Vemloir/Varmle
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="languages-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="languages-light.svg">
-  <img src="languages-light.svg" alt="Top languages" width="780">
+  <img src="languages-light.svg" alt="Top languages" width="860">
 </picture>
