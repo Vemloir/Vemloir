@@ -1,15 +1,16 @@
 ```mermaid
+%%{init: {'flowchart': {'nodeSpacing': 25, 'rankSpacing': 35}}}%%
 graph TD;
 AegisVPN[Aegis VPN] --> Varmlen[Varmlen]
 Varmlen --> platforms
+AegisVPN ~~~ LumenLLM[LumenLLM]
 
 subgraph platforms[Platforms]
+    direction LR
     VarmlenLinux[Linux]
     VarmlenWindows[Windows]
     VarmlenAndroid[Android]
 end
-
-LumenLLM[LumenLLM]
 
 click AegisVPN "https://github.com/Vemloir/AegisVPN" "Aegis VPN — VPN subscription service"
 click Varmlen "https://github.com/Vemloir/Varmlen-Client-Linux" "Varmlen — xray-core client"
