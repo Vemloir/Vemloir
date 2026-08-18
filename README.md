@@ -12,7 +12,7 @@ Open-source **xray-core** VPN clients ([Linux](https://github.com/Vemloir/Varmle
 
 #### [Aegis VPN](https://github.com/Vemloir/AegisVPN)
 
-A VPN subscription platform on **Xray (VLESS + Reality)**: a Telegram bot storefront with an inline admin panel ([@AegisEcoVPN_bot](https://t.me/AegisEcoVPN_bot)) plus a fleet of VPS nodes that each pull signed config snapshots over outbound HTTPS and reconcile state themselves — no inbound control port open on any exit server. Telegram Stars payments, per-server access control, multi-server subscriptions.
+Production VPN subscription platform on **Xray (VLESS + Reality)** and **Hysteria2**, live at [aegisvpn.org](https://aegisvpn.org). Every node pulls signed config over outbound HTTPS and reconciles itself — **no inbound port open** on any exit server.
 
 <br>
 
