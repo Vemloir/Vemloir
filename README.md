@@ -9,12 +9,12 @@ subgraph platforms[Platforms]
     VarmlenAndroid[Android]
 end
 
-AegisVPN[<a href="https://github.com/Vemloir/AegisVPN" style="text-decoration:none;">Aegis VPN</a><br/><span style="font-size:10px;">VPN subscription service</span>];
-Varmlen[<a href="https://github.com/Vemloir/Varmlen-Client-Linux" style="text-decoration:none;">Varmlen</a><br/><span style="font-size:10px;">xray-core client</span>];
-VarmlenLinux[<a href="https://github.com/Vemloir/Varmlen-Client-Linux" style="text-decoration:none;">Linux</a>];
-VarmlenWindows[<a href="https://github.com/Vemloir/Varmlen-Client-Windows" style="text-decoration:none;">Windows</a>];
-VarmlenAndroid[<a href="https://github.com/Vemloir/Varmlen-Client-Android" style="text-decoration:none;">Android</a>];
-LumenLLM[<a href="https://github.com/Vemloir/LumenLLM" style="text-decoration:none;">LumenLLM</a><br/><span style="font-size:10px;">Rust + CUDA inference engine</span>];
+AegisVPN["<a href='https://github.com/Vemloir/AegisVPN'>Aegis VPN</a><br/><span style='font-size:10px;'>VPN subscription service</span>"];
+Varmlen["<a href='https://github.com/Vemloir/Varmlen-Client-Linux'>Varmlen</a><br/><span style='font-size:10px;'>xray-core client</span>"];
+VarmlenLinux["<a href='https://github.com/Vemloir/Varmlen-Client-Linux'>Linux</a>"];
+VarmlenWindows["<a href='https://github.com/Vemloir/Varmlen-Client-Windows'>Windows</a>"];
+VarmlenAndroid["<a href='https://github.com/Vemloir/Varmlen-Client-Android'>Android</a>"];
+LumenLLM["<a href='https://github.com/Vemloir/LumenLLM'>LumenLLM</a><br/><span style='font-size:10px;'>Rust + CUDA inference engine</span>"];
 ```
 
 #### [LumenLLM](https://github.com/Vemloir/LumenLLM)
