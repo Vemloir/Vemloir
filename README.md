@@ -1,24 +1,8 @@
-```mermaid
-%%{init: {'flowchart': {'nodeSpacing': 25, 'rankSpacing': 35}}}%%
-graph TD;
-AegisVPN[Aegis VPN] --> Varmlen[Varmlen]
-Varmlen --> platforms
-AegisVPN ~~~ LumenLLM[LumenLLM]
-
-subgraph platforms[Platforms]
-    direction LR
-    VarmlenLinux[Linux]
-    VarmlenWindows[Windows]
-    VarmlenAndroid[Android]
-end
-
-click AegisVPN "https://github.com/Vemloir/AegisVPN" "Aegis VPN — VPN subscription service"
-click Varmlen "https://github.com/Vemloir/Varmlen-Client-Linux" "Varmlen — xray-core client"
-click VarmlenLinux "https://github.com/Vemloir/Varmlen-Client-Linux" "Linux"
-click VarmlenWindows "https://github.com/Vemloir/Varmlen-Client-Windows" "Windows"
-click VarmlenAndroid "https://github.com/Vemloir/Varmlen-Client-Android" "Android"
-click LumenLLM "https://github.com/Vemloir/LumenLLM" "LumenLLM — Rust + CUDA inference engine"
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="graph-light.svg">
+  <img src="graph-light.svg" alt="Project relationships" width="860">
+</picture>
 
 #### [LumenLLM](https://github.com/Vemloir/LumenLLM)
 
