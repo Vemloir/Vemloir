@@ -15,11 +15,3 @@ Open-source **xray-core** VPN clients ([Linux](https://github.com/Vemloir/Varmle
 #### [Aegis VPN](https://github.com/Vemloir/AegisVPN)
 
 Production VPN subscription platform on **Xray (VLESS + Reality)** and **Hysteria2**, live at [aegisvpn.org](https://aegisvpn.org). Every node pulls signed config over outbound HTTPS and reconciles itself — **no inbound port open** on any exit server.
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="languages-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="languages-light.svg">
-  <img src="languages-light.svg" alt="Top languages" width="860">
-</picture>
